@@ -1,0 +1,10 @@
+.bg {
+    border: 2px solid rgb(216, 208, 208);
+    padding: 30px 0px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom right, rgb(221, 219, 219), white, white, rgb(221, 219, 219));
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
